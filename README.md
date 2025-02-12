@@ -1,6 +1,6 @@
 #Trocar cor do Site
 
-![](./img/Captura%20de%20tela%202025-02-12%20200203.png)
+![](Captura%20de%20tela%202025-02-12%20200203.png)
 ---
 
 ##Sobre
