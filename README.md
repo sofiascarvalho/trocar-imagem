@@ -1,6 +1,6 @@
 # Trocar Imagem do Site
 
-![](./img/Captura%20de%20tela%202025-02-12%20202022.png)
+![](Captura%20de%20tela%202025-02-12%20202022.png)
 ---
 
 ## Sobre
